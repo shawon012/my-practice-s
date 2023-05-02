@@ -1,0 +1,12 @@
+node_modules
+.vercel
+
+
+
+# echo "# my-practice-s" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/shawon012/my-practice-s.git
+# git push -u origin main
